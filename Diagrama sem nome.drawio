@@ -1,36 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T14:07:32.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uT9aNlXju_Gphrr6xZq3" version="24.4.6" type="github">
-  <diagram name="Página-1" id="4RcofoAQbTlGlxEZQ2O1">
-    <mxGraphModel dx="1194" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ddeadc" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-05-22T14:14:36.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.6" etag="difinLdOkxrCRbs3obqU" type="github">
+  <diagram name="Página-1" id="yCUt1NXLVfqwNSEqXpai">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#46495D;strokeColor=#788AA3;glass=0;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="280" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6faf4;fontColor=#46495D;strokeColor=#788AA3;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="400" width="280" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-7" value="Usuario:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#46495D;fontFamily=Verdana;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-8" value="Senha:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Verdana;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="260" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-9" value="Entrar" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fontFamily=Verdana;fillColor=#B2C9AB;strokeColor=#788AA3;shadow=1;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="340" y="440" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-10" value="Esqueceu a senha ?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2163A6;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="480" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#788AA3;fontColor=#46495D;fillColor=#354f26;" vertex="1" parent="1">
-          <mxGeometry x="90" y="60" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-21" value="SWINEE TECNOLOGIA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#acc4ab;fontStyle=1;fontSize=16;textShadow=1;labelBorderColor=default;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="140" width="175" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="e9N9gPUfizQEqqW7r3Uj-22" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#b4c7b2;strokeColor=default;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontColor=#F2FFEB;labelBorderColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="105.5" y="60" width="89" height="68" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
